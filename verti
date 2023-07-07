@@ -1,0 +1,948 @@
+
+<!DOCTYPE html>
+<html lang="it-IT"><head>
+	<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+	
+	<script data-cfasync="false" data-pagespeed-no-defer="">
+	var gtm4wp_datalayer_name = "digitalData";
+  var digitalData = digitalData || [];
+</script>
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+<link rel="preload" href="/contents/ui/theme/core/admin/fonts/modules/all/modules.ttf" as="font" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" href="/media/et-fonts/bariol-regular-1.otf" as="font" type="font/otf" crossorigin="anonymous">
+<link rel="preload" href="/media/divi-uploaded-icons-diui-awb/verti-small/verti-small.ttf" as="font" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" href="/media/divi-uploaded-icons-diui-awb/verti-medium/verti-medium.ttf" as="font" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" href="/media/divi-uploaded-icons-diui-awb/verti-large/verti-large.ttf" as="font" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" href="/media/divi-uploaded-icons-diui-awb/verti-new/verti-new.ttf" as="font" type="font/ttf" crossorigin="anonymous">
+
+
+<script data-cfasync="false" data-pagespeed-no-defer="">
+	var gtm4wp_datalayer_name = "digitalData";
+	var digitalData = digitalData || [];
+</script>
+<script type="text/javascript">
+			let jqueryParams=[],jQuery=function(r){return jqueryParams=[...jqueryParams,r],jQuery},$=function(r){return jqueryParams=[...jqueryParams,r],$};window.jQuery=jQuery,window.$=jQuery;let customHeadScripts=!1;jQuery.fn=jQuery.prototype={},$.fn=jQuery.prototype={},jQuery.noConflict=function(r){if(window.jQuery)return jQuery=window.jQuery,$=window.jQuery,customHeadScripts=!0,jQuery.noConflict},jQuery.ready=function(r){jqueryParams=[...jqueryParams,r]},$.ready=function(r){jqueryParams=[...jqueryParams,r]},jQuery.load=function(r){jqueryParams=[...jqueryParams,r]},$.load=function(r){jqueryParams=[...jqueryParams,r]},jQuery.fn.ready=function(r){jqueryParams=[...jqueryParams,r]},$.fn.ready=function(r){jqueryParams=[...jqueryParams,r]};</script>
+	
+	<link media="all" href="/contents/cache/autoptimize/css/autoptimize_35992b2666e06ff9c78ed0da105db850.css" rel="stylesheet"><style media="screen">.nav{overflow:visible !important}.ve-head-menu-main ul.nav>li:hover{margin-top:2px !important}.nav>li>a:hover{background-color:#fff !important}#menu-footer_1>li>a:hover,#menu-footer_2>li>a:hover{background-color:#333 !important}</style><title>Blog | Verti</title>
+	<meta name="description" content="Verti blog: informazioni sempre aggiornate e novità su auto, moto, casa, guida sicura e assicurazioni online. Resta informato con Verti!">
+	<link rel="canonical" href="https://www.verti.it/blog/">
+	<link rel="next" href="/blog/page/2/">
+	<meta property="og:locale" content="it_IT">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="Blog | Verti">
+	<meta property="og:description" content="Verti blog: informazioni sempre aggiornate e novità su auto, moto, casa, guida sicura e assicurazioni online. Resta informato con Verti!">
+	<meta property="og:url" content="https://www.verti.it/blog/">
+	<meta property="og:site_name" content="Verti Assicurazioni">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@verti_italia">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":["WebPage","CollectionPage"],"@id":"https://www.verti.it/blog/","url":"https://www.verti.it/blog/","name":"Blog | Verti","isPartOf":{"@id":"https://www.verti.it/#website"},"datePublished":"2020-04-27T10:35:53+00:00","dateModified":"2023-03-27T11:01:22+00:00","description":"Verti blog: informazioni sempre aggiornate e novità su auto, moto, casa, guida sicura e assicurazioni online. Resta informato con Verti!","breadcrumb":{"@id":"https://www.verti.it/blog/#breadcrumb"},"inLanguage":"it-IT"},{"@type":"BreadcrumbList","@id":"https://www.verti.it/blog/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.verti.it/"},{"@type":"ListItem","position":2,"name":"Blog"}]},{"@type":"WebSite","@id":"https://www.verti.it/#website","url":"https://www.verti.it/","name":"Verti Assicurazioni","description":"","potentialAction":[],"inLanguage":"it-IT"}]}</script>
+	
+
+
+<link href="//www.googletagmanager.com" crossorigin rel="dns-prefetch">
+<link href="//www.youtube.com" crossorigin rel="dns-prefetch">
+<link href="//cdn.cookielaw.org" crossorigin rel="dns-prefetch">
+<link rel="alternate" type="application/rss+xml" title="Verti Assicurazioni » Feed" href="https://www.verti.it/feed/">
+<link rel="alternate" type="application/rss+xml" title="Verti Assicurazioni » Feed dei commenti" href="https://www.verti.it/comments/feed/">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <script>
+                    if (document.location.protocol != "https:") {
+                        document.location = document.URL.replace(/^http:/i, "https:");
+                    }
+                </script>
+                <script type="text/javascript" src="/inc/js/jquery/jquery.min.js" id="jquery-core-js"></script>
+
+<script type="text/javascript" id="jquery-js-after">
+jqueryParams.length&&$.each(jqueryParams,function(e,r){if("function"==typeof r){var n=String(r);n.replace("$","jQuery");var a=new Function("return "+n)();$(document).ready(a)}});
+</script>
+
+
+
+<script data-cfasync="false" data-pagespeed-no-defer="">digitalData.push({'brand':'Verti Italy'});digitalData.push({'channel': 'Internet'});digitalData.push({'version': '3.0'});digitalData.push({'section_1': 'blog'});digitalData.push({'section_2': ''});digitalData.push({'section_3': ''});digitalData.push({'section_4': ''});digitalData.push({'section_5': ''});digitalData.push({'section_6': ''});digitalData.push({'section_7': ''});var str=new RegExp('Page not found');if(str.test(digitalData[0].pageTitle)){var errortype=digitalData[0].pageTitle;}else{var errortype='';}digitalData.push({'error_type': errortype});digitalData.push({'message_type': errortype});digitalData.push({'language': 'it_IT'});digitalData.push({'country': 'IT'});digitalData.push({'url': 'https://www.verti.it/blog/'});</script>
+
+
+<script data-cfasync="false" data-pagespeed-no-defer="">
+	var dataLayer_content = {"pageTitle":"Blog | Verti","pagePostType":"bloghome"};
+	digitalData.push( dataLayer_content );
+</script>
+<script type="text/javascript">
+	console.warn && console.warn("[GTM4WP] Google Tag Manager container code placement set to OFF !!!");
+	console.warn && console.warn("[GTM4WP] Data layer codes are active but GTM container must be loaded using custom coding !!!");
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"><link rel="icon" href="/media/favicon-4.ico" sizes="32x32">
+<link rel="icon" href="/media/favicon-4.ico" sizes="192x192">
+<link rel="apple-touch-icon" href="/media/favicon-4.ico">
+<meta name="msapplication-TileImage" content="https://www.verti.it/media/favicon-4.ico">
+
+<script type="text/javascript" src="https://cdn.cookielaw.org/consent/0e988057-6845-4c1a-bdb2-7aef534102c4/OtAutoBlock.js"></script>
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" data-document-language="true" type="text/javascript" charset="UTF-8" data-domain-script="0e988057-6845-4c1a-bdb2-7aef534102c4"></script>
+<script type="text/javascript">
+    function OptanonWrapper() {
+    }
+</script>
+
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','digitalData','GTM-NNZ3KB2');</script>
+
+
+
+</head>
+<body class="locale-it-it et_monarch et-db">
+	<svg viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><div id="page-container">
+<div id="et-boc" class="et-boc">
+			
+		<header class="et-l et-l--header">
+			<div class="et_builder_inner_content et_pb_gutters3"><div class="et_pb_section et_pb_section_0_tb_header ve-head-sec et_section_regular et_pb_section--fixed">
+				
+				
+				
+				
+					<div class="et_pb_with_border et_pb_row et_pb_row_0_tb_header et_pb_gutters1">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0_tb_header  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_0_tb_header ve-head-img-logo">
+				
+				
+				<a href="/"><span class="et_pb_image_wrap "><img decoding="async" loading="lazy" width="83" height="42" src="/media/logo-verti-italia-42px.png" alt="Logo Verti Italia" title="Logo Verti Italia" class="wp-image-348119" data-et-multi-view="{&quot;schema&quot;:{&quot;attrs&quot;:{&quot;desktop&quot;:{&quot;src&quot;:&quot;https:\/\/www.verti.it\/media\/logo-verti-italia-42px.png&quot;,&quot;alt&quot;:&quot;Logo Verti Italia&quot;,&quot;title&quot;:&quot;Logo Verti Italia&quot;,&quot;class&quot;:&quot;wp-image-348119&quot;},&quot;phone&quot;:{&quot;src&quot;:&quot;https:\/\/www.verti.it\/media\/logo-verti-mobile-1.png&quot;}}},&quot;slug&quot;:&quot;et_pb_image&quot;}"></span></a>
+			</div><div class="et_pb_module et_pb_text et_pb_text_0_tb_header  et_pb_text_align_right et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p>
+        </p><div class="busqueda_desktop_div">
+        <span class="busqueda"></span>
+        <div class="custom_menu_search">
+            <form role="search" method="get" class="custom_menu_search-form" action="https://www.verti.it/risultati-della-ricerca">
+				<input type="search" id="buscar-field" class="ve-desktop-search " placeholder="Cerca" name="query" title="Cerca:">
+			</form>
+        </div>
+        </div></div>
+			</div><div class="et_pb_module et_pb_image et_pb_image_1_tb_header">
+				
+				
+				<a href="https://ecommerce.verti.it/web/portal/login"><span class="et_pb_image_wrap "><img decoding="async" loading="lazy" width="24" height="26" src="/media/login-icono-01.png" alt="" title="" class="wp-image-345581"></span></a>
+			</div><div class="et_pb_button_module_wrapper et_pb_button_0_tb_header_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_custom_button_icon et_pb_button_0_tb_header et_animated et_pb_bg_layout_light" href="https://ecommerce.verti.it/web/portal/login" data-icon="345297~|verti-small~|nav-user-16~|">my Verti</a>
+			</div><div class="et_pb_module et_pb_code et_pb_code_0_tb_header">
+				
+				
+				<div class="et_pb_code_inner"></div>
+			</div>
+			</div>
+				
+				
+			</div><div class="et_pb_row et_pb_row_1_tb_header et_pb_gutters1 et_pb_row--with-menu">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_1_tb_header  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column--with-menu">
+				
+				
+				<div class="et_pb_module et_pb_menu et_pb_menu_0_tb_header ve-head-menu-main et_pb_bg_layout_light  et_pb_text_align_left et_dropdown_animation_fade et_pb_menu--without-logo et_pb_menu--style-left_aligned">
+					
+					
+					<div class="et_pb_menu_inner_container clearfix">
+						
+						<div class="et_pb_menu__wrap">
+							<div class="et_pb_menu__menu">
+								<nav class="et-menu-nav"><ul id="menu-main" class="et-menu nav"><li class="mobile-search">
+        <div class="busqueda_div">
+        <span class="busqueda"></span>
+        </div>
+
+        <div class="et_pb_menu__search">
+            <form role="search" method="get" class="et_pb_menu__search-form" action="https://www.verti.it/risultati-della-ricerca">
+				<input type="search" class="ve-mobile-search et_pb_menu__search-input" placeholder="Cerca " name="query" title="Cerca:">
+				<input class="button-busqueda" type="submit" value="busqueda">
+			</form>
+        </div>
+        </li><li class="first-level menu-item menu-item-has-children"><a>Auto</a>
+<ul class="sub-menu">
+	<li class="second-level-last menu-item"><a href="/assicurazione-auto/">Assicurazione auto</a></li>
+	<li class="second-level-last menu-item"><a href="/assicurazione-auto/elettriche-ibride/">– Elettriche e ibride</a></li>
+	<li class="second-level-last menu-item"><a href="/assicurazione-auto/offerte/">– Offerte</a></li>
+	<li class="second-level-last menu-item"><a href="/assicurazione-auto/garanzie/">– Garanzie</a></li>
+	<li class="second-level-last menu-item"><a href="/assicurazione-auto/assicurazione-a-rate/">– Assicurazione a rate</a></li>
+	<li class="second-level-last menu-item"><a href="/assicurazione-auto/casi-particolari/">– Casi particolari</a></li>
+</ul>
+</li>
+<li class="first-level menu-item menu-item-has-children"><a>Moto</a>
+<ul class="sub-menu">
+	<li class="second-level-last menu-item"><a href="/assicurazione-moto/">Assicurazione moto</a></li>
+	<li class="second-level-last menu-item"><a href="/assicurazione-moto/garanzie/">– Garanzie</a></li>
+	<li class="second-level-last menu-item"><a href="/assicurazione-moto/casi-particolari/">– Casi particolari</a></li>
+	<li class="second-level-last menu-item"><a href="/assicurazione-moto/scooter-50-e-125/">– Scooter 50 e 125</a></li>
+	<li class="second-level-last menu-item"><a href="/assicurazione-moto/preventivi/">Preventivi</a></li>
+	<li class="second-level-last menu-item"><a href="/assicurazione-moto/preventivi/offerte/">– Offerte</a></li>
+</ul>
+</li>
+<li class="first-level menu-item menu-item-has-children"><a>Furgone</a>
+<ul class="sub-menu">
+	<li class="second-level-last menu-item"><a href="/assicurazione-furgone/">Assicurazione Furgone</a></li>
+	<li class="second-level-last menu-item"><a href="/assicurazione-furgone/offerte/">– Offerte</a></li>
+</ul>
+</li>
+<li class="first-level menu-item menu-item-has-children"><a>Casa</a>
+<ul class="sub-menu">
+	<li class="second-level-last menu-item"><a href="/assicurazione-casa/">Assicurazione casa</a></li>
+	<li class="second-level-last menu-item"><a href="/assicurazione-casa/garanzie/">– Garanzie</a></li>
+	<li class="menu-item"><a href="/assicurazione-casa/app-assistenza-casa/">– App assistenza casa</a></li>
+	<li class="second-level-last menu-item"><a href="/assicurazione-casa/sei-in-affitto/">– Se sei in affitto</a></li>
+	<li class="second-level-last menu-item"><a href="/assicurazione-casa/rinnovare/">– Rinnovo polizza</a></li>
+	<li class="second-level-last menu-item"><a href="/assicurazione-casa/preventivi/">Preventivi</a></li>
+	<li class="second-level-last menu-item"><a href="/assicurazione-casa/preventivi/promozioni/">– Promozioni</a></li>
+</ul>
+</li>
+<li class="first-level menu-item menu-item-has-children"><a>Già clienti</a>
+<ul class="sub-menu">
+	<li class="second-level-last menu-item"><a href="/gia-clienti/">Già clienti</a></li>
+	<li class="second-level-last menu-item"><a href="/gia-clienti/rinnovare/">– Rinnovare</a></li>
+	<li class="second-level-last menu-item"><a href="/gia-clienti/in-corso-di-polizza/">– In corso di polizza</a></li>
+	<li class="second-level-last menu-item"><a href="/gia-clienti/archivio-set-informativi/">– Archivio Set Informativi</a></li>
+	<li class="second-level-last menu-item"><a href="/gia-clienti/servizi/">– Servizi</a></li>
+	<li class="second-level-last menu-item"><a href="/gia-clienti/assicurazione-rc-familiare/">– Assicurazione RC familiare</a></li>
+	<li class="second-level-last menu-item"><a href="/gia-clienti/clausola-ripensamento/">– Clausola di ripensamento</a></li>
+</ul>
+</li>
+<li class="first-level menu-item menu-item-has-children"><a>Sinistri</a>
+<ul class="sub-menu">
+	<li class="second-level-last menu-item"><a href="/sinistri/">Sinistri</a></li>
+	<li class="second-level-last menu-item"><a href="/sinistri/cosa-fare-sinistro/">– Cosa fare in caso di sinistro</a></li>
+	<li class="second-level-last menu-item"><a href="/sinistri/constatazione-amichevole/">– Constatazione amichevole</a></li>
+	<li class="second-level-last menu-item"><a href="/sinistri/assistenza-stradale/">– Assistenza stradale</a></li>
+	<li class="second-level-last menu-item"><a href="/sinistri/servizio-sinistri/">– Servizio sinistri</a></li>
+	<li class="second-level-last menu-item"><a href="/sinistri/apertura-sinistro-online/">– Apertura sinistro online</a></li>
+	<li class="second-level-last menu-item"><a href="/sinistri/carrozzerie-convenzionate/">– Carrozzerie convenzionate</a></li>
+	<li class="second-level-last menu-item"><a href="/sinistri/sinistri-casa/">– Sinistri casa</a></li>
+</ul>
+</li>
+<li class="first-level menu-item menu-item-has-children"><a>Tutto online</a>
+<ul class="sub-menu">
+	<li class="second-level-last menu-item"><a href="/tutto-online/">Tutto online</a></li>
+	<li class="second-level-last menu-item"><a href="/tutto-online/tutto-online-glossario/">– Glossario</a></li>
+	<li class="second-level-last menu-item"><a href="/tutto-online/contattaci/">– Contattaci</a></li>
+	<li class="second-level menu-item menu-item-has-children"><a href="/tutto-online/faq/">– FAQ</a>
+	<ul class="sub-menu">
+		<li class="third-level menu-item"><a href="/tutto-online/faq/verti/">Verti</a></li>
+		<li class="third-level menu-item"><a href="/tutto-online/faq/polizza/">Polizza</a></li>
+		<li class="menu-item"><a href="/tutto-online/faq/sinistri/">Sinistri</a></li>
+		<li class="menu-item"><a href="/tutto-online/faq/assicurazione-veicoli/">Assicurazione veicoli</a></li>
+		<li class="menu-item"><a href="/tutto-online/faq/assicurazione-casa/">Assicurazione casa</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="first-level menu-item menu-item-has-children"><a>Chi siamo</a>
+<ul class="sub-menu">
+	<li class="second-level-last menu-item"><a href="/chi-siamo/">Chi siamo</a></li>
+	<li class="second-level-last menu-item"><a href="/chi-siamo/nostra-storia/">– La nostra storia</a></li>
+	<li class="second-level-last menu-item"><a href="/chi-siamo/dicono-di-noi/">– Dicono di noi: le opinioni su Verti</a></li>
+	<li class="second-level-last menu-item"><a href="/chi-siamo/lavorare-con-noi/">– Vuoi lavorare con noi?</a></li>
+	<li class="second-level-last menu-item"><a href="/chi-siamo/informazioni-societarie/">– Informazioni societarie</a></li>
+	<li class="second-level-last menu-item"><a href="/chi-siamo/servizio-clienti/">– Servizio clienti</a></li>
+	<li class="second-level-last menu-item"><a href="/chi-siamo/sala-stampa/">– Sala stampa</a></li>
+</ul>
+</li>
+<li class="menu-item current-menu-item page_item page-item-341957 current_page_item current_page_parent"><a href="/blog/" aria-current="page">Blog</a></li>
+</ul></nav>
+							</div>
+							
+							
+							<div class="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="mobile_menu_bar"></span>
+				</div>
+			</div>
+						</div>
+						
+					</div>
+				</div>
+			</div>
+				
+				
+			</div>
+				
+				
+			</div>		</div>
+	</header>
+	<div id="et-main-area">
+	
+    <div id="main-content">
+    <div class="et-l et-l--body">
+			<div class="et_builder_inner_content et_pb_gutters3">
+		<div class="et_pb_section et_pb_section_1_tb_body et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_0_tb_body">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0_tb_body  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0_tb_body ve-bc-text  et_pb_text_align_left et_pb_text_align_right-phone et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p><span><span><a href="/">Home</a></span> &gt; <span class="breadcrumb_last" aria-current="page">Blog</span></span></p></div>
+			</div><div class="et_pb_module et_pb_code et_pb_code_0_tb_body ve-bc-but-back">
+				
+				
+				<div class="et_pb_code_inner"><form>
+  <input style="cursor: pointer" type="button" value="<" onclick="history.back()">
+</form></div>
+			</div>
+			</div>
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_2_tb_body ve-posts-it-sec et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_1_tb_body et_pb_gutters2">
+				<div class="et_pb_column et_pb_column_1_5 et_pb_column_1_tb_body  et_pb_css_mix_blend_mode_passthrough et_pb_column_empty">
+				
+				
+				
+			</div><div class="et_pb_column et_pb_column_3_5 et_pb_column_2_tb_body  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_1_tb_body  et_pb_text_align_center et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h1>Blog</h1></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_5 et_pb_column_3_tb_body  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column_empty">
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_row et_pb_row_2_tb_body">
+				<div class="et_pb_column et_pb_column_2_3 et_pb_column_4_tb_body  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_blog_0_tb_body et_pb_posts et_pb_bg_layout_light ">
+				
+				
+				<div class="et_pb_ajax_pagination_container">
+					
+			<article id="post-399789" class="et_pb_post clearfix et_pb_blog_item_0_0 post-399789 post type-post status-publish format-standard has-post-thumbnail category-casa-e-famiglia">
+
+				<a href="/blog/perdita-gas-casa/" class="entry-featured-image-url"><img decoding="async" loading="lazy" src="/media/perdita-gas-in-casa-1080x675.jpg" alt="Come capire se c’è una perdita di gas in casa e cosa fare" class="" width="1080" height="675"></a>
+														<h2 class="entry-title"><a href="/blog/perdita-gas-casa/">Come capire se c’è una perdita di gas in casa e cosa fare</a></h2>
+				
+					<p class="post-meta"><span class="published">05/07/2023</span> | <a href="/blog/categorie/casa-e-famiglia/" rel="tag">Casa e famiglia</a></p><div class="post-content"><div class="post-content-inner"><p>Scopri i nostri consigli per capire se in casa c’è una perdita di gas, chi chiamare e come agire tempestivamente per la sicurezza tua e della tua famiglia.</p>
+</div></div>			
+			</article>
+				
+			<article id="post-399416" class="et_pb_post clearfix et_pb_blog_item_0_1 post-399416 post type-post status-publish format-standard has-post-thumbnail category-moto">
+
+				<a href="/blog/assicurazione-moto-scooter-dati/" class="entry-featured-image-url"><img decoding="async" loading="lazy" src="/media/Le-abitudini-degli-italiani-assicurazione-moto-e-scooter-1080x675.png" alt="Due ruote e una passione, le abitudini degli italiani per l’assicurazione moto e scooter" class="" width="1080" height="675"></a>
+														<h2 class="entry-title"><a href="/blog/assicurazione-moto-scooter-dati/">Due ruote e una passione, le abitudini degli italiani per l’assicurazione moto e scooter</a></h2>
+				
+					<p class="post-meta"><span class="published">27/06/2023</span> | <a href="/blog/categorie/moto/" rel="tag">Moto</a></p><div class="post-content"><div class="post-content-inner"><p>Vediamo, con l’aiuto di alcuni dati statistici, quanto e come sono diffusi moto e scooter in Italia oggi, e quali sono le abitudini assicurative degli italiani. Indossate il casco: si parte!</p>
+</div></div>			
+			</article>
+				
+			<article id="post-399296" class="et_pb_post clearfix et_pb_blog_item_0_2 post-399296 post type-post status-publish format-standard has-post-thumbnail category-auto">
+
+				<a href="/blog/frizione-auto/" class="entry-featured-image-url"><img decoding="async" loading="lazy" src="/media/Frizione-auto-cosa-e-e-come-funziona-1080x675.jpg" alt="Frizione auto cosa è e come funziona" class="" width="1080" height="675"></a>
+														<h2 class="entry-title"><a href="/blog/frizione-auto/">Frizione auto cosa è e come funziona</a></h2>
+				
+					<p class="post-meta"><span class="published">20/06/2023</span> | <a href="/blog/categorie/auto/" rel="tag">Auto</a></p><div class="post-content"><div class="post-content-inner"><p>La frizione è uno dei componenti più importanti di un’auto. Scopri come funziona e tanti consigli per farla durare più a lungo.</p>
+</div></div>			
+			</article>
+				
+			<article id="post-399213" class="et_pb_post clearfix et_pb_blog_item_0_3 post-399213 post type-post status-publish format-standard has-post-thumbnail category-moto">
+
+				<a href="/blog/moto-principianti-consigli/" class="entry-featured-image-url"><img decoding="async" loading="lazy" src="/media/Moto-per-principianti-1080x675.jpg" alt="Moto per principianti: consigli per la scelta" class="" width="1080" height="675"></a>
+														<h2 class="entry-title"><a href="/blog/moto-principianti-consigli/">Moto per principianti: consigli per la scelta</a></h2>
+				
+					<p class="post-meta"><span class="published">12/06/2023</span> | <a href="/blog/categorie/moto/" rel="tag">Moto</a></p><div class="post-content"><div class="post-content-inner"><p>Vuoi comprare la tua prima moto? Scopri i nostri consigli sulle migliori moto per principianti e neopatentati e trova il tipo migliore per te.</p>
+</div></div>			
+			</article>
+				
+			<article id="post-399103" class="et_pb_post clearfix et_pb_blog_item_0_4 post-399103 post type-post status-publish format-standard has-post-thumbnail category-sin-categoria">
+
+				<a href="/blog/revisione-caldaia-ogni-quanto/" class="entry-featured-image-url"><img decoding="async" loading="lazy" src="/media/revisione_caldaia_03-1080x675.jpg" alt="Revisione caldaia: ogni quanto si fa?" class="" width="1080" height="675"></a>
+														<h2 class="entry-title"><a href="/blog/revisione-caldaia-ogni-quanto/">Revisione caldaia: ogni quanto si fa?</a></h2>
+				
+					<p class="post-meta"><span class="published">05/06/2023</span> | <a href="/blog/categorie/sin-categoria/" rel="tag">Sin categoría</a></p><div class="post-content"><div class="post-content-inner"><p>La revisione della caldaia è obbligatoria per legge ed è fondamentale per prevenire incidenti. Scopri ogni quanto si fa, costi e molte altre informazioni.</p>
+</div></div>			
+			</article>
+				
+			<article id="post-398564" class="et_pb_post clearfix et_pb_blog_item_0_5 post-398564 post type-post status-publish format-standard has-post-thumbnail category-auto">
+
+				<a href="/blog/verifica-copertura-assicurativa-auto/" class="entry-featured-image-url"><img decoding="async" loading="lazy" src="/media/Verifica-copertura-assicurativa-auto-tutto-quello-che-ce-da-sapere-1080x675.jpg" alt="Verifica copertura assicurativa auto: come vedere se una macchina è assicurata" class="" width="1080" height="675"></a>
+														<h2 class="entry-title"><a href="/blog/verifica-copertura-assicurativa-auto/">Verifica copertura assicurativa auto: come vedere se una macchina è assicurata</a></h2>
+				
+					<p class="post-meta"><span class="published">30/05/2023</span> | <a href="/blog/categorie/auto/" rel="tag">Auto</a></p><div class="post-content"><div class="post-content-inner"><p>In caso di incidente, può essere utile verificare la copertura assicurativa delle auto coinvolte. Scopri con Verti come vedere se una macchina è assicurata! </p>
+</div></div>			
+			</article>
+				
+			<article id="post-398227" class="et_pb_post clearfix et_pb_blog_item_0_6 post-398227 post type-post status-publish format-standard has-post-thumbnail category-mondo-verti">
+
+				<a href="/blog/assicurazione-animali-domestici-casa-dati/" class="entry-featured-image-url"><img decoding="async" loading="lazy" src="/media/Le-abitudini-degli-italiani-per-lassicurazione-animali-domestici-e-casa-1080x675.png" alt="Le abitudini degli italiani per l’assicurazione animali domestici e casa" class="" width="1080" height="675"></a>
+														<h2 class="entry-title"><a href="/blog/assicurazione-animali-domestici-casa-dati/">Le abitudini degli italiani per l’assicurazione animali domestici e casa</a></h2>
+				
+					<p class="post-meta"><span class="published">23/05/2023</span> | <a href="/blog/categorie/mondo-verti/" rel="tag">Mondo Verti</a></p><div class="post-content"><div class="post-content-inner"><p>Che rapporto hanno gli italiani con case e animali domestici? Quali le abitudini assicurative in questi ambiti? Scopriamolo attraverso i dati dell’Osservatorio Verti Movers e di altre fonti statistiche.</p>
+</div></div>			
+			</article>
+				
+			<article id="post-398059" class="et_pb_post clearfix et_pb_blog_item_0_7 post-398059 post type-post status-publish format-standard has-post-thumbnail category-casa-e-famiglia">
+
+				<a href="/blog/come-scegliere-miglior-antifurto-casa/" class="entry-featured-image-url"><img decoding="async" loading="lazy" src="/media/Miglior-antifurto-casa-come-scegliere-lallarme-casa-1080x675.png" alt="Come scegliere il miglior antifurto per la casa" class="" width="1080" height="675"></a>
+														<h2 class="entry-title"><a href="/blog/come-scegliere-miglior-antifurto-casa/">Come scegliere il miglior antifurto per la casa</a></h2>
+				
+					<p class="post-meta"><span class="published">16/05/2023</span> | <a href="/blog/categorie/casa-e-famiglia/" rel="tag">Casa e famiglia</a></p><div class="post-content"><div class="post-content-inner"><p>Il mercato degli antifurto per la sicurezza di casa è molto vasto, ecco perché è importante scegliere il modello più adatto alla propria abitazione.</p>
+</div></div>			
+			</article>
+				
+			<article id="post-397960" class="et_pb_post clearfix et_pb_blog_item_0_8 post-397960 post type-post status-publish format-standard has-post-thumbnail category-moto">
+
+				<a href="/blog/specchietti-moto-scooter/" class="entry-featured-image-url"><img decoding="async" loading="lazy" src="/media/Specchietti-moto-e-scooter-tutto-quello-che-c-e-da-sapere-1080x675.png" alt="Specchietti moto e scooter: tutto quello che c’è da sapere" class="" width="1080" height="675"></a>
+														<h2 class="entry-title"><a href="/blog/specchietti-moto-scooter/">Specchietti moto e scooter: tutto quello che c’è da sapere</a></h2>
+				
+					<p class="post-meta"><span class="published">11/05/2023</span> | <a href="/blog/categorie/moto/" rel="tag">Moto</a></p><div class="post-content"><div class="post-content-inner"><p>Una delle infrazioni più gravi per un motociclista è viaggiare senza specchietti retrovisori. Scopri tutto quello che c’è da sapere su questo argomento.</p>
+</div></div>			
+			</article>
+				
+			<article id="post-397918" class="et_pb_post clearfix et_pb_blog_item_0_9 post-397918 post type-post status-publish format-standard has-post-thumbnail category-mondo-verti">
+
+				<a href="/blog/ema-stokholma-verti-talk-show/" class="entry-featured-image-url"><img decoding="async" loading="lazy" src="/media/Ema-Stokholma-per-Verti-digital-talk-show-Verti-Talks-1080x675.jpg" alt="Verti Talks, il digital talk show di Ema Stokholma" class="" width="1080" height="675"></a>
+														<h2 class="entry-title"><a href="/blog/ema-stokholma-verti-talk-show/">Verti Talks, il digital talk show di Ema Stokholma</a></h2>
+				
+					<p class="post-meta"><span class="published">08/05/2023</span> | <a href="/blog/categorie/mondo-verti/" rel="tag">Mondo Verti</a></p><div class="post-content"><div class="post-content-inner"><p>Verti Talks – Quando il cambiamento è dietro l’angolo”: il primo digital talk show Verti ideato e condotto da Ema Stokholma</p>
+</div></div>			
+			</article>
+				<div><div class="wp-pagenavi" role="navigation">
+<span class="pages">Pagina 1 di 33</span><span aria-current="page" class="current">1</span><a class="page larger" title="Pagina 2" href="/blog/page/2/?et_blog">2</a><a class="page larger" title="Pagina 3" href="/blog/page/3/?et_blog">3</a><a class="page larger" title="Pagina 4" href="/blog/page/4/?et_blog">4</a><a class="page larger" title="Pagina 5" href="/blog/page/5/?et_blog">5</a><span class="extend">...</span><a class="larger page" title="Pagina 10" href="/blog/page/10/?et_blog">10</a><a class="larger page" title="Pagina 20" href="/blog/page/20/?et_blog">20</a><a class="larger page" title="Pagina 30" href="/blog/page/30/?et_blog">30</a><span class="extend">...</span><a class="nextpostslink" rel="next" aria-label="Pagina successiva" href="/blog/page/2/?et_blog">»</a><a class="last" aria-label="Last Page" href="/blog/page/33/?et_blog">Ultima »</a>
+</div></div></div>
+				</div>
+				 
+			</div><div class="et_pb_column et_pb_column_1_3 et_pb_column_5_tb_body  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_sidebar_0_tb_body ve-blog-sidebar et_pb_widget_area clearfix et_pb_widget_area_left et_pb_bg_layout_light et_pb_sidebar_no_border">
+				
+				
+				<div id="categories-2" class="et_pb_widget widget_categories"><h4 class="widgettitle">Categorie</h4>
+			<ul>
+					<li class="cat-item cat-item-20"><a href="/blog/categorie/auto/">Auto</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="/blog/categorie/casa-e-famiglia/">Casa e famiglia</a>
+</li>
+	<li class="cat-item cat-item-25"><a href="/blog/categorie/curiosita/">Curiosità</a>
+</li>
+	<li class="cat-item cat-item-37"><a href="/blog/categorie/furgone/">Furgone</a>
+</li>
+	<li class="cat-item cat-item-21"><a href="/blog/categorie/mondo-verti/">Mondo Verti</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="/blog/categorie/moto/">Moto</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="/blog/categorie/regole-della-strada/">Regole della strada</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="/blog/categorie/sin-categoria/">Sin categoría</a>
+</li>
+			</ul>
+
+			</div><div id="archives-2" class="et_pb_widget widget_archive"><h4 class="widgettitle">Archivi</h4>
+			<ul>
+					<li><a href="/blog/2023/07/">Luglio 2023</a></li>
+	<li><a href="/blog/2023/06/">Giugno 2023</a></li>
+	<li><a href="/blog/2023/05/">Maggio 2023</a></li>
+	<li><a href="/blog/2023/04/">Aprile 2023</a></li>
+	<li><a href="/blog/2023/03/">Marzo 2023</a></li>
+	<li><a href="/blog/2023/02/">Febbraio 2023</a></li>
+	<li><a href="/blog/2023/01/">Gennaio 2023</a></li>
+	<li><a href="/blog/2022/12/">Dicembre 2022</a></li>
+	<li><a href="/blog/2022/11/">Novembre 2022</a></li>
+	<li><a href="/blog/2022/10/">Ottobre 2022</a></li>
+	<li><a href="/blog/2022/09/">Settembre 2022</a></li>
+	<li><a href="/blog/2022/08/">Agosto 2022</a></li>
+	<li><a href="/blog/2022/07/">Luglio 2022</a></li>
+	<li><a href="/blog/2022/06/">Giugno 2022</a></li>
+	<li><a href="/blog/2022/05/">Maggio 2022</a></li>
+	<li><a href="/blog/2022/04/">Aprile 2022</a></li>
+	<li><a href="/blog/2022/03/">Marzo 2022</a></li>
+	<li><a href="/blog/2022/02/">Febbraio 2022</a></li>
+	<li><a href="/blog/2022/01/">Gennaio 2022</a></li>
+	<li><a href="/blog/2021/12/">Dicembre 2021</a></li>
+	<li><a href="/blog/2021/11/">Novembre 2021</a></li>
+	<li><a href="/blog/2021/10/">Ottobre 2021</a></li>
+	<li><a href="/blog/2021/09/">Settembre 2021</a></li>
+	<li><a href="/blog/2021/08/">Agosto 2021</a></li>
+	<li><a href="/blog/2021/07/">Luglio 2021</a></li>
+	<li><a href="/blog/2021/06/">Giugno 2021</a></li>
+	<li><a href="/blog/2021/05/">Maggio 2021</a></li>
+	<li><a href="/blog/2021/04/">Aprile 2021</a></li>
+	<li><a href="/blog/2021/03/">Marzo 2021</a></li>
+	<li><a href="/blog/2021/02/">Febbraio 2021</a></li>
+	<li><a href="/blog/2021/01/">Gennaio 2021</a></li>
+	<li><a href="/blog/2020/12/">Dicembre 2020</a></li>
+	<li><a href="/blog/2020/11/">Novembre 2020</a></li>
+	<li><a href="/blog/2020/10/">Ottobre 2020</a></li>
+	<li><a href="/blog/2020/09/">Settembre 2020</a></li>
+	<li><a href="/blog/2020/08/">Agosto 2020</a></li>
+	<li><a href="/blog/2020/07/">Luglio 2020</a></li>
+	<li><a href="/blog/2020/06/">Giugno 2020</a></li>
+	<li><a href="/blog/2020/05/">Maggio 2020</a></li>
+	<li><a href="/blog/2020/04/">Aprile 2020</a></li>
+	<li><a href="/blog/2020/03/">Marzo 2020</a></li>
+	<li><a href="/blog/2020/02/">Febbraio 2020</a></li>
+	<li><a href="/blog/2020/01/">Gennaio 2020</a></li>
+	<li><a href="/blog/2019/12/">Dicembre 2019</a></li>
+	<li><a href="/blog/2019/11/">Novembre 2019</a></li>
+	<li><a href="/blog/2019/10/">Ottobre 2019</a></li>
+	<li><a href="/blog/2019/09/">Settembre 2019</a></li>
+	<li><a href="/blog/2019/08/">Agosto 2019</a></li>
+	<li><a href="/blog/2019/07/">Luglio 2019</a></li>
+	<li><a href="/blog/2019/06/">Giugno 2019</a></li>
+	<li><a href="/blog/2019/05/">Maggio 2019</a></li>
+	<li><a href="/blog/2019/04/">Aprile 2019</a></li>
+	<li><a href="/blog/2019/03/">Marzo 2019</a></li>
+	<li><a href="/blog/2019/02/">Febbraio 2019</a></li>
+	<li><a href="/blog/2019/01/">Gennaio 2019</a></li>
+	<li><a href="/blog/2018/12/">Dicembre 2018</a></li>
+	<li><a href="/blog/2018/11/">Novembre 2018</a></li>
+	<li><a href="/blog/2018/10/">Ottobre 2018</a></li>
+	<li><a href="/blog/2018/09/">Settembre 2018</a></li>
+	<li><a href="/blog/2018/08/">Agosto 2018</a></li>
+	<li><a href="/blog/2018/07/">Luglio 2018</a></li>
+	<li><a href="/blog/2018/06/">Giugno 2018</a></li>
+	<li><a href="/blog/2018/05/">Maggio 2018</a></li>
+	<li><a href="/blog/2018/04/">Aprile 2018</a></li>
+	<li><a href="/blog/2018/03/">Marzo 2018</a></li>
+	<li><a href="/blog/2018/02/">Febbraio 2018</a></li>
+	<li><a href="/blog/2018/01/">Gennaio 2018</a></li>
+	<li><a href="/blog/2017/12/">Dicembre 2017</a></li>
+	<li><a href="/blog/2017/11/">Novembre 2017</a></li>
+	<li><a href="/blog/2017/10/">Ottobre 2017</a></li>
+	<li><a href="/blog/2017/09/">Settembre 2017</a></li>
+	<li><a href="/blog/2011/11/">Novembre 2011</a></li>
+			</ul>
+
+			</div>
+		<div id="recent-posts-2" class="et_pb_widget widget_recent_entries">
+		<h4 class="widgettitle">Articoli recenti</h4>
+		<ul>
+											<li>
+					<a href="/blog/perdita-gas-casa/">Come capire se c’è una perdita di gas in casa e cosa fare</a>
+									</li>
+											<li>
+					<a href="/blog/assicurazione-moto-scooter-dati/">Due ruote e una passione, le abitudini degli italiani per l’assicurazione moto e scooter</a>
+									</li>
+											<li>
+					<a href="/blog/frizione-auto/">Frizione auto cosa è e come funziona</a>
+									</li>
+											<li>
+					<a href="/blog/moto-principianti-consigli/">Moto per principianti: consigli per la scelta</a>
+									</li>
+											<li>
+					<a href="/blog/revisione-caldaia-ogni-quanto/">Revisione caldaia: ogni quanto si fa?</a>
+									</li>
+					</ul>
+
+		</div>
+			</div>
+			</div>
+				
+				
+			</div>
+				
+				
+			</div>		</div>
+	</div>
+	    </div>
+    
+	<footer class="et-l et-l--footer">
+			<div class="et_builder_inner_content et_pb_gutters3">
+		<div class="et_pb_section et_pb_section_0_tb_footer ve-footer-sec et_pb_with_background et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_0_tb_footer">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0_tb_footer ve-footer-col-stamps  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<ul class="et_pb_module et_pb_social_media_follow et_pb_social_media_follow_0_tb_footer clearfix  et_pb_text_align_center et_pb_bg_layout_light">
+				
+				
+				<li class="et_pb_social_media_follow_network_0_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-facebook et_pb_social_media_follow_network_0_tb_footer"><a href="https://www.facebook.com/vertiassicurazioni/" class="icon et_pb_with_border" title="Segui su Facebook" target="_blank"><span class="et_pb_social_media_follow_network_name" aria-hidden="true">Segui</span></a></li><li class="et_pb_social_media_follow_network_1_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-twitter et_pb_social_media_follow_network_1_tb_footer"><a href="https://twitter.com/verti_italia" class="icon et_pb_with_border" title="Segui su Twitter" target="_blank"><span class="et_pb_social_media_follow_network_name" aria-hidden="true">Segui</span></a></li><li class="et_pb_social_media_follow_network_2_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-instagram et_pb_social_media_follow_network_2_tb_footer"><a href="https://www.instagram.com/verti_italia/" class="icon et_pb_with_border" title="Segui su Instagram" target="_blank"><span class="et_pb_social_media_follow_network_name" aria-hidden="true">Segui</span></a></li><li class="et_pb_social_media_follow_network_3_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-linkedin et_pb_social_media_follow_network_3_tb_footer"><a href="https://www.linkedin.com/company/verti-assicurazioni/" class="icon et_pb_with_border" title="Segui su LinkedIn" target="_blank"><span class="et_pb_social_media_follow_network_name" aria-hidden="true">Segui</span></a></li><li class="et_pb_social_media_follow_network_4_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-youtube et_pb_social_media_follow_network_4_tb_footer"><a href="https://www.youtube.com/channel/UC_Cu-RVOD-ED7PH0I51NAtg/featured?view_as=subscriber" class="icon et_pb_with_border" title="Segui su Youtube" target="_blank"><span class="et_pb_social_media_follow_network_name" aria-hidden="true">Segui</span></a></li>
+			</ul>
+			</div>
+				
+				
+			</div><div class="et_pb_row et_pb_row_1_tb_footer">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_1_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0_tb_footer  et_pb_text_align_left et_pb_bg_layout_dark">
+				
+				
+				<div class="et_pb_text_inner"><h4 style="text-align: left;">I nostri metodi di pagamento:</h4></div>
+			</div>
+			</div>
+				
+				
+			</div><div class="et_pb_row et_pb_row_2_tb_footer">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_2_tb_footer ve-footer-col-stamps  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_0_tb_footer">
+				
+				
+				<a href="/gia-clienti/rinnovare/metodi-di-pagamento/"><span class="et_pb_image_wrap "><img decoding="async" loading="lazy" width="69" height="69" src="/media/visa2.png" alt="visa" title="visa" class="wp-image-348475"></span></a>
+			</div><div class="et_pb_module et_pb_image et_pb_image_1_tb_footer">
+				
+				
+				<a href="/gia-clienti/rinnovare/metodi-di-pagamento/"><span class="et_pb_image_wrap "><img decoding="async" loading="lazy" width="69" height="69" src="/media/mc.png" alt="Mastercard" title="Mastercard" class="wp-image-348473"></span></a>
+			</div><div class="et_pb_module et_pb_image et_pb_image_2_tb_footer">
+				
+				
+				<a href="/gia-clienti/rinnovare/metodi-di-pagamento/"><span class="et_pb_image_wrap "><img decoding="async" loading="lazy" width="69" height="69" src="/media/amex.png" alt="Amex" title="amex" class="wp-image-348471"></span></a>
+			</div><div class="et_pb_module et_pb_image et_pb_image_3_tb_footer">
+				
+				
+				<a href="/gia-clienti/rinnovare/metodi-di-pagamento/"><span class="et_pb_image_wrap "><img decoding="async" loading="lazy" width="69" height="69" src="/media/diners.png" alt="Diners club" title="Diners club" class="wp-image-348482"></span></a>
+			</div><div class="et_pb_module et_pb_image et_pb_image_4_tb_footer">
+				
+				
+				<a href="/gia-clienti/rinnovare/metodi-di-pagamento/"><span class="et_pb_image_wrap "><img decoding="async" loading="lazy" width="69" height="69" src="/media/paypalpng.png" alt="paypal" title="paypal" class="wp-image-348474"></span></a>
+			</div><div class="et_pb_module et_pb_image et_pb_image_5_tb_footer">
+				
+				
+				<a href="/gia-clienti/rinnovare/metodi-di-pagamento/"><span class="et_pb_image_wrap "><img decoding="async" loading="lazy" width="69" height="69" src="/media/041120_icona_findo_4.png" alt="Findomestic" title="Findomestic" class="wp-image-378339"></span></a>
+			</div><div class="et_pb_module et_pb_image et_pb_image_6_tb_footer">
+				
+				
+				<a href="/gia-clienti/rinnovare/metodi-di-pagamento/"><span class="et_pb_image_wrap "><img decoding="async" loading="lazy" width="69" height="69" src="/media/bb3.png" alt="Bonifico bancario" title="Bonifico bancario" class="wp-image-348776"></span></a>
+			</div><div class="et_pb_module et_pb_divider_0_tb_footer et_pb_space et_pb_divider_hidden"><div class="et_pb_divider_internal"></div></div>
+			</div>
+				
+				
+			</div><div class="et_pb_row et_pb_row_3_tb_footer et_pb_row--with-menu">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_3_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column--with-menu">
+				
+				
+				<div class="et_pb_module et_pb_menu et_pb_menu_0_tb_footer ve-footer-menu-item-separator et_pb_bg_layout_light  et_pb_text_align_left et_pb_text_align_center-phone et_dropdown_animation_fade et_pb_menu--without-logo et_pb_menu--style-left_aligned">
+					
+					
+					<div class="et_pb_menu_inner_container clearfix">
+						
+						<div class="et_pb_menu__wrap">
+							<div class="et_pb_menu__menu">
+								<nav class="et-menu-nav"><ul id="menu-footer_1" class="et-menu nav"><li class="menu-item"><a href="/cookie-policy/">Cookie Policy</a></li>
+<li class="ot-sdk-show-settings footer menu-item"><a href="#">Configurazione Cookie</a></li>
+<li class="menu-item"><a href="/privacy/">Privacy</a></li>
+<li class="menu-item"><a href="/chi-siamo/servizio-reclami/">Reclami</a></li>
+<li class="menu-item"><a href="https://www.verti.it/mappa-sito/">Mappa del sito</a></li>
+<li class="menu-item"><a href="/media/Set-informativo-Verti-auto.ed_.14.07.2022.pdf">Set Informativo Auto</a></li>
+<li class="menu-item"><a href="/media/Set-informativi/Set-Informativo-Verti-Motociclo-e-Ciclomotore_ed.02.05.2023.pdf">Moto e Ciclomotore</a></li>
+<li class="menu-item"><a href="/media/Set-Informativo-Verti-Furgone-ed.22marzo2022.pdf">Furgone</a></li>
+<li class="menu-item"><a href="/media/Set-Informativo-Verti-MULTISETTORE_ed.13.12.2021.pdf">Multisettore</a></li>
+<li class="menu-item"><a href="/media/Set-informativi/Set-Informativo-Verti-Casa-e-Famiglia.ed_.03.03.2023.pdf">Casa e Famiglia</a></li>
+<li class="Condizioni Contrattuali menu-item"><a href="/condizioni-contrattuali/">Condizioni Contrattuali</a></li>
+<li class="menu-item"><a href="/media/Modulo-CAI.pdf">Modulo CAI</a></li>
+<li class="menu-item"><a href="/assicurazione-auto/marche/">Assicurazione auto marche e modelli</a></li>
+<li class="menu-item"><a href="/assicurazione-moto/marche/">Assicurazione moto marche e modelli</a></li>
+<li class="menu-item"><a href="/gia-clienti/in-corso-di-polizza/">Informazioni richiesta credenziali area personale my Verti</a></li>
+<li class="menu-item"><a>Per calcolare un preventivo veloce Verti bastano 15 secondi che è il tempo minimo indicativo.</a></li>
+</ul></nav>
+							</div>
+							
+							
+							<div class="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="mobile_menu_bar"></span>
+				</div>
+			</div>
+						</div>
+						
+					</div>
+				</div>
+			</div>
+				
+				
+			</div><div class="et_pb_row et_pb_row_4_tb_footer et_pb_row--with-menu">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_4_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column--with-menu">
+				
+				
+				<div class="et_pb_module et_pb_menu et_pb_menu_1_tb_footer ve-footer-menu-item-separator et_pb_bg_layout_light  et_pb_text_align_left et_pb_text_align_center-phone et_dropdown_animation_fade et_pb_menu--without-logo et_pb_menu--style-left_aligned">
+					
+					
+					<div class="et_pb_menu_inner_container clearfix">
+						
+						<div class="et_pb_menu__wrap">
+							<div class="et_pb_menu__menu">
+								<nav class="et-menu-nav"><ul id="menu-footer_2" class="et-menu nav"><li class="menu-item"><a href="https://www.mapfre.com/">Verti Assicurazioni S.p.A. è parte del Gruppo MAPFRE e opera attraverso il sito in qualità di distributore di prodotti assicurativi.</a></li>
+</ul></nav>
+							</div>
+							
+							
+							<div class="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="mobile_menu_bar"></span>
+				</div>
+			</div>
+						</div>
+						
+					</div>
+				</div>
+			</div>
+				
+				
+			</div><div class="et_pb_row et_pb_row_5_tb_footer">
+				<div class="et_pb_column et_pb_column_3_5 et_pb_column_5_tb_footer  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_1_tb_footer  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p style="text-align: left;">Copyright © 2023 Verti Assicurazioni S.p.A.</p></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_2_5 et_pb_column_6_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column_empty">
+				
+				
+				
+			</div>
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_1_tb_footer ve-gen-sec-overlay-mobile et_pb_with_background et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_6_tb_footer">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_7_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column_empty">
+				
+				
+				
+			</div>
+				
+				
+			</div>
+				
+				
+			</div>		</div>
+	</footer>
+		</div>
+
+			
+		</div>
+		</div>
+
+			<script type="text/javascript">var overlays_with_css_trigger = {};</script><script type="text/javascript">var overlays_with_automatic_trigger = {'377629': '{"at_type":"overlay-timed","at_value":"0","at_onceperload":"1"}',};</script><div id="divioverlay-links"></div><div id="sidebar-overlay" class="hiddenMainContainer">	<div id="divi-overlay-container-377629" class="overlay-container">
+	<div class="divioverlay-bg animate__animated"></div>
+		<div id="overlay-377629" class="divioverlay" style="display:none;" data-bgcolor="" data-enablebgblur="0" data-preventscroll="1" data-scrolltop="" data-cookie="1" data-enableajax="0" data-contentloaded="0" data-animationin="fadeInDown" data-animationout="fadeOutUp" data-animationspeedin="0.5" data-animationspeedout="0.5">
+			
+						
+			<div class="animate__animated entry-content">
+			<div id="et-boc" class="et-boc">
+			
+		<div class="et-l et-l--post">
+			<div class="et_builder_inner_content et_pb_gutters3">
+		<div id="divi-life-4th-of-july-modal-layout-template" class="dov_dv_section et_pb_section_dov_377629_0 close-divi-overlay et_section_regular et_section_transparent">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_dov_377629_1">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_dov_377629_2  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_code et_pb_code_dov_377629_3">
+				
+				
+				<div class="et_pb_code_inner"><p><a class="divi-life-4th-of-july-modal-layout-template-custom-close close-divi-overlay" href="javascript:;">×</a></p> </div>
+			</div>
+			</div>
+				
+				
+			</div><div class="et_pb_row et_pb_row_dov_377629_4">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_dov_377629_5  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_dov_377629_6">
+				
+				
+				<span class="et_pb_image_wrap "><img src="/media/casa_30_splash_page_v3.jpg" alt="Sala Stampa" title="casa_30_splash_page" class="wp-image-397096"></span>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_dov_377629_7  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_dov_377629_8  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h2><strong>Approfitta dei VERTIDays</strong></h2>
+<p>L'offerta che dura poco ma ti dà tanto! Solo fino al 18 luglio, <strong>30% di sconto sulla polizza casa e famiglia</strong>.</p>
+<p><span style="color: #a51783;"><strong>Che aspetti? #conVERTIti!</strong></span></p></div>
+			</div>
+			</div>
+				
+				
+			</div>
+				
+				
+			</div>
+		</div>
+	</div>
+	
+			
+		</div>
+					</div>
+			
+		</div>
+	</div>
+	</div>		<script type="text/javascript">
+		var divioverlays_ajaxurl = "https://www.verti.it/"
+		, divioverlays_us = "ea2511cc6a"
+		, divioverlays_loadingimg = "https://www.verti.it/contents/lib/divi-overlays/assets/img/divilife-loader.svg";
+		</script>
+		<!-- HFCM by 99 Robots - Snippet # 20: QQ Parameter -->
+<script>
+	jQuery(function() {
+					   
+		 if( jQuery(".et_pb_blurb.qq_car.active").length ) {jQuery("#input_type_veh").val("CAR")}			   
+		 if( jQuery(".et_pb_blurb.qq_motorbike.active").length ) {jQuery("#input_type_veh").val("MOTORBIKE")}			   
+		 if( jQuery(".et_pb_blurb.qq_furgone.active").length ) {jQuery("#input_type_veh").val("AUTOCARRI_FINO_35_QUINTALI")}			   
+		 if( jQuery(".et_pb_blurb.qq_house.active").length ) {jQuery("#input_type_veh").val("")}			   
+					   
+					   
+jQuery( ".vemo_quick_quote_container" ).on( "click", ".qq_car", function() { jQuery("#input_type_veh").val("CAR")});
+jQuery( ".vemo_quick_quote_container" ).on( "click", ".qq_motorbike ", function() { jQuery("#input_type_veh").val("MOTORBIKE")});
+jQuery( ".vemo_quick_quote_container" ).on( "click", ".qq_furgone", function() { jQuery("#input_type_veh").val("AUTOCARRI_FINO_35_QUINTALI")});
+jQuery( ".vemo_quick_quote_container" ).on( "click", ".qq_house", function() { jQuery("#input_type_veh").val("")});
+				  });
+</script>
+<!-- /end HFCM by 99 Robots -->
+<script type="text/javascript"></script>	<script type="text/javascript">
+				var et_animation_data = [{"class":"et_pb_button_0_tb_header","style":"fade","repeat":"once","duration":"50ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"}];
+				</script>
+	<link rel="stylesheet" id="divi-overlays-animate-style-css" href="//cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" type="text/css" media="all">
+
+
+
+
+
+<script type="text/javascript" id="partners_js-js-extra">
+/* <![CDATA[ */
+var php_param_values = {"current_path":"\/blog\/perdita-gas-casa\/","post_included":"0","affinity_values":{"399235":{"relative_path":"\/landing\/fnp\/","alliance":"STU","tipocliente":"CLI"},"398251":{"relative_path":"\/mgawow\/","alliance":"MGAW","tipocliente":"CLI"},"398258":{"relative_path":"\/landing\/promo_moto_torna_in_verti\/","alliance":"MGM","tipocliente":""},"397866":{"relative_path":"\/marshpersonal\/preventivimarshpersonal\/","alliance":"MPL","tipocliente":"CLI"},"397852":{"relative_path":"\/marshpersonal\/","alliance":"MPL","tipocliente":"CLI"},"392593":{"relative_path":"\/landing\/promo_casa_cross\/","alliance":"MGM","tipocliente":""},"389962":{"relative_path":"\/landing\/thefork\/","alliance":"STU","tipocliente":"CLI"},"388808":{"relative_path":"\/specialeperme\/","alliance":"STU","tipocliente":"CLI"},"386864":{"relative_path":"\/aonwelfare\/preventivi\/","alliance":"AON","tipocliente":"CLI"},"386614":{"relative_path":"\/aonwelfare\/","alliance":"AON","tipocliente":"CLI"},"385953":{"relative_path":"\/landing\/promo_auto_torna_in_verti_2\/","alliance":"MGM","tipocliente":""},"384111":{"relative_path":"\/amexoffers\/preventivi\/","alliance":"AMX","tipocliente":"CLI"},"384107":{"relative_path":"\/amexoffers\/","alliance":"AMX","tipocliente":"CLI"},"382306":{"relative_path":"\/landing\/promo_auto_torna_in_verti_1\/","alliance":"MGM","tipocliente":""},"346438":{"relative_path":"\/top\/","alliance":"TOP","tipocliente":"CLI"},"346410":{"relative_path":"\/q8\/","alliance":"PETR","tipocliente":"CLI"},"346405":{"relative_path":"\/paypal\/preventivi\/","alliance":"PPY","tipocliente":"CLI"},"346396":{"relative_path":"\/paypal\/","alliance":"PPY","tipocliente":"CLI"},"346387":{"relative_path":"\/mediaworld\/preventivi\/","alliance":"MDW","tipocliente":"CLI"},"346377":{"relative_path":"\/mediaworld\/","alliance":"MDW","tipocliente":"CLI"},"346309":{"relative_path":"\/findomestic\/preventivi\/","alliance":"FDOM","tipocliente":"CLI"},"346301":{"relative_path":"\/findomestic\/","alliance":"FDOM","tipocliente":"CLI"},"346143":{"relative_path":"\/esselunga\/preventivi\/","alliance":"ESL","tipocliente":"CLI"},"346103":{"relative_path":"\/lafeltrinelli\/","alliance":"FELT","tipocliente":"CLI"},"346074":{"relative_path":"\/esselunga\/","alliance":"ESL","tipocliente":"CLI"},"345996":{"relative_path":"\/enelenergia\/preventivi\/","alliance":"ENEL","tipocliente":"CLI"},"345982":{"relative_path":"\/enelenergia\/","alliance":"ENEL","tipocliente":"CLI"},"345914":{"relative_path":"\/promozionedipendenti\/","alliance":"DIP","tipocliente":"CLI"},"345435":{"relative_path":"\/correntista\/","alliance":"FCO","tipocliente":"CLI"}}};
+/* ]]> */
+</script>
+
+<script type="text/javascript" id="ptid_js-js-extra">
+/* <![CDATA[ */
+var ptId = "";
+/* ]]> */
+</script>
+
+<script type="text/javascript" id="et_monarch-custom-js-js-extra">
+/* <![CDATA[ */
+var monarchSettings = {"ajaxurl":"https:\/\/www.verti.it\/wp-admin\/admin-ajax.php","pageurl":"","stats_nonce":"16aeb2fbce","share_counts":"74e47a4f09","follow_counts":"5bbeb92dd4","total_counts":"e07a0474b4","media_single":"6b43f11c7f","media_total":"764558e106","generate_all_window_nonce":"7c36ccddab","no_img_message":"No images available for sharing on this page"};
+/* ]]> */
+</script>
+
+
+<script type="text/javascript" id="divi-custom-script-js-extra">
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
+var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"https:\/\/www.verti.it\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.verti.it\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/www.verti.it\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"c5d38a673c","subscription_failed":"Si prega di verificare i campi di seguito per assicurarsi di aver inserito le informazioni corrette.","et_ab_log_nonce":"4273556f03","fill_message":"Compila i seguenti campi:","contact_error_message":"Per favore, correggi i seguenti errori:","invalid":"E-mail non valido","captcha":"Captcha","prev":"Indietro","previous":"Precedente","next":"Accanto","wrong_captcha":"Hai inserito un numero errato nei captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"399789","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"yes","is_shortcode_tracking":"","tinymce_uri":""};
+var et_pb_box_shadow_elements = [];
+/* ]]> */
+</script>
+
+
+
+<script type="text/javascript" src="/contents/lib/divi-overlays/assets/js/jquery.exitintent.js" id="divi-overlays-exit-intent-js"></script>
+<script type="text/javascript" src="/contents/lib/divi-overlays/assets/js/custom.js" id="divi-overlays-custom-js-js"></script>
+
+
+<script>
+$(document).ready(function () {
+    if (php_param_values === undefined) {
+        return;
+    }
+    if (php_param_values.affinity_values === undefined) {
+        return;
+    }
+    php_param_values.affinity_values[386614] = {
+        "alliance": "AON",
+        "relative_path": "/aonwelfare/",
+        "tipocliente": "CLI"
+    };
+		php_param_values.affinity_values[388808] = {
+        "alliance": "STU",
+        "relative_path": "/specialeperme/",
+        "tipocliente": "CLI"
+    };
+
+    init_temp();
+
+    function getCookieAffinity_temp(cookie) {
+        var cookieArray = document.cookie.split(';');
+        for (var i = 0; i < cookieArray.length; i++) {
+
+            if (cookieArray[i].indexOf(cookie) !== -1) {
+                return cookieArray[i].split("=")[1].trim();
+            }
+        }
+        return "";
+    }
+
+
+    function redirection_temp(alliance) {
+        const result = Object.values(php_param_values.affinity_values).filter(function (element) {
+            return element.alliance === alliance;
+        });
+        document.location.pathname = result[0].relative_path;
+    }
+
+    function init_temp() {
+        let cookie2track = 'alliance=';
+        let found_cookie;
+        if (window.location.pathname === '/') {
+            found_cookie = getCookieAffinity_temp(cookie2track);
+            if (found_cookie === "") {
+                console.log('Cookie Not found');
+            } else {
+                redirection_temp(found_cookie);
+            }
+        }
+    }
+});
+</script>
+<div id="tt" role="tooltip" aria-label="Tooltip content" class="cmtt has-in"></div>	
+	<script defer src="/contents/cache/autoptimize/js/autoptimize_e6593cf21fc24c6a5c7fe645000635b3.js"></script></body>
+
+</html>
